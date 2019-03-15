@@ -15,6 +15,7 @@ import java.util.Map;
 /**
  * Created by LaunchCode
  */
+
 public class JobData {
 
     private static final String DATA_FILE = "resources/job_data.csv";

@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  * Created by LaunchCode
  */
+
 public class TechJobs {
 
     private static Scanner in = new Scanner(System.in);
